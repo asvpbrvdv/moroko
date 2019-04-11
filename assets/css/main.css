@@ -401,7 +401,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #ff8b77;
+		color: #28587B;
 	}
 
 		a:hover {
@@ -2013,8 +2013,8 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 1px #ff8b77;
-		color: #ff8b77 !important;
+		box-shadow: inset 0 0 0 1px #28587B;
+		color: #28587B !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2038,7 +2038,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background: #ff8b77;
+			background: #28587B;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2307,8 +2307,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ff8b77;
-			box-shadow: 0 0 0 1px #ff8b77;
+			border-color: #28587B;
+			box-shadow: 0 0 0 1px #28587B;
 		}
 
 	select {
@@ -2332,14 +2332,14 @@ input, select, textarea {
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		border-color: #ff8b77;
-		color: #ff8b77;
+		border-color: #28587B;
+		color: #28587B;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #ff8b77;
-		box-shadow: 0 0 0 1px #ff8b77;
+		border-color: #28587B;
+		box-shadow: 0 0 0 1px #28587B;
 	}
 
 	::-webkit-input-placeholder {
@@ -2932,7 +2932,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background: #ff8b77;
+			background: #28587B;
 		}
 
 		.wrapper.style2 {
@@ -3092,8 +3092,8 @@ input, select, textarea {
 		.spotlights button,
 		.spotlights .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 1px #ff8b77;
-			color: #ff8b77 !important;
+			box-shadow: inset 0 0 0 1px #28587B;
+			color: #28587B !important;
 		}
 
 			.spotlights input[type="submit"]:hover,
@@ -3117,7 +3117,7 @@ input, select, textarea {
 			.spotlights input[type="button"].primary,
 			.spotlights button.primary,
 			.spotlights .button.primary {
-				background: #ff8b77;
+				background: #28587B;
 				box-shadow: none;
 				color: #ffffff !important;
 			}
@@ -3161,8 +3161,8 @@ input, select, textarea {
 			.spotlights input[type="url"]:focus,
 			.spotlights select:focus,
 			.spotlights textarea:focus {
-				border-color: #ff8b77;
-				box-shadow: 0 0 0 1px #ff8b77;
+				border-color: #28587B;
+				box-shadow: 0 0 0 1px #28587B;
 			}
 
 		.spotlights select {
@@ -3186,14 +3186,14 @@ input, select, textarea {
 
 		.spotlights input[type="checkbox"]:checked + label:before,
 		.spotlights input[type="radio"]:checked + label:before {
-			border-color: #ff8b77;
-			color: #ff8b77;
+			border-color: #28587B;
+			color: #28587B;
 		}
 
 		.spotlights input[type="checkbox"]:focus + label:before,
 		.spotlights input[type="radio"]:focus + label:before {
-			border-color: #ff8b77;
-			box-shadow: 0 0 0 1px #ff8b77;
+			border-color: #28587B;
+			box-shadow: 0 0 0 1px #28587B;
 		}
 
 		.spotlights ::-webkit-input-placeholder {
@@ -3269,7 +3269,7 @@ input, select, textarea {
 				}
 
 			.spotlights .spotlight .content {
-				background: #ff8b77;
+				background: #28587B;
 				border-radius: 0 0 4px 4px;
 				font-weight: 700;
 				padding: 1.25rem 1rem;
@@ -3360,7 +3360,7 @@ input, select, textarea {
 		}
 
 			.profiles .profile:before {
-				background: #ff8b77;
+				background: #28587B;
 				border-radius: 4px 4px 0 0;
 				content: '';
 				height: 9rem;
@@ -3425,7 +3425,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #ff8b77;
+		background: #28587B;
 		color: #ffffff;
 		cursor: default;
 		padding: 1rem 2rem;
@@ -3911,8 +3911,8 @@ input, select, textarea {
 		#banner button,
 		#banner .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 1px #ff8b77;
-			color: #ff8b77 !important;
+			box-shadow: inset 0 0 0 1px #28587B;
+			color: #28587B !important;
 		}
 
 			#banner input[type="submit"]:hover,
@@ -3936,7 +3936,7 @@ input, select, textarea {
 			#banner input[type="button"].primary,
 			#banner button.primary,
 			#banner .button.primary {
-				background: #ff8b77;
+				background: #28587B;
 				box-shadow: none;
 				color: #ffffff !important;
 			}
@@ -3980,8 +3980,8 @@ input, select, textarea {
 			#banner input[type="url"]:focus,
 			#banner select:focus,
 			#banner textarea:focus {
-				border-color: #ff8b77;
-				box-shadow: 0 0 0 1px #ff8b77;
+				border-color: #28587B;
+				box-shadow: 0 0 0 1px #28587B;
 			}
 
 		#banner select {
@@ -4005,14 +4005,14 @@ input, select, textarea {
 
 		#banner input[type="checkbox"]:checked + label:before,
 		#banner input[type="radio"]:checked + label:before {
-			border-color: #ff8b77;
-			color: #ff8b77;
+			border-color: #28587B;
+			color: #28587B;
 		}
 
 		#banner input[type="checkbox"]:focus + label:before,
 		#banner input[type="radio"]:focus + label:before {
-			border-color: #ff8b77;
-			box-shadow: 0 0 0 1px #ff8b77;
+			border-color: #28587B;
+			box-shadow: 0 0 0 1px #28587B;
 		}
 
 		#banner ::-webkit-input-placeholder {
@@ -4238,8 +4238,8 @@ input, select, textarea {
 				#footer .content .icons button,
 				#footer .content .icons .button {
 					background-color: transparent;
-					box-shadow: inset 0 0 0 1px #ff8b77;
-					color: #ff8b77 !important;
+					box-shadow: inset 0 0 0 1px #28587B;
+					color: #28587B !important;
 				}
 
 					#footer .content .icons input[type="submit"]:hover,
@@ -4263,7 +4263,7 @@ input, select, textarea {
 					#footer .content .icons input[type="button"].primary,
 					#footer .content .icons button.primary,
 					#footer .content .icons .button.primary {
-						background: #ff8b77;
+						background: #28587B;
 						box-shadow: none;
 						color: #ffffff !important;
 					}
@@ -4307,8 +4307,8 @@ input, select, textarea {
 					#footer .content .icons input[type="url"]:focus,
 					#footer .content .icons select:focus,
 					#footer .content .icons textarea:focus {
-						border-color: #ff8b77;
-						box-shadow: 0 0 0 1px #ff8b77;
+						border-color: #28587B;
+						box-shadow: 0 0 0 1px #28587B;
 					}
 
 				#footer .content .icons select {
@@ -4332,14 +4332,14 @@ input, select, textarea {
 
 				#footer .content .icons input[type="checkbox"]:checked + label:before,
 				#footer .content .icons input[type="radio"]:checked + label:before {
-					border-color: #ff8b77;
-					color: #ff8b77;
+					border-color: #28587B;
+					color: #28587B;
 				}
 
 				#footer .content .icons input[type="checkbox"]:focus + label:before,
 				#footer .content .icons input[type="radio"]:focus + label:before {
-					border-color: #ff8b77;
-					box-shadow: 0 0 0 1px #ff8b77;
+					border-color: #28587B;
+					box-shadow: 0 0 0 1px #28587B;
 				}
 
 				#footer .content .icons ::-webkit-input-placeholder {
@@ -4400,7 +4400,7 @@ input, select, textarea {
 					display: -webkit-flex;
 					display: -ms-flex;
 					display: flex;
-					background: #ff8b77;
+					background: #28587B;
 					border-radius: 4px;
 					box-shadow: 0px 15px 59px -20px rgba(0, 0, 0, 0.35);
 					margin-bottom: 2rem;
