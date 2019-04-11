@@ -193,7 +193,7 @@ input, select, textarea {
 			}
 
 	header h1:before, header h2:before, header h3:before, header h4:before, header h5:before, header h6:before {
-		background-color: #ff8b77;
+		background-color: #28587B;
 		content: '';
 		display: block;
 		height: 2px;
